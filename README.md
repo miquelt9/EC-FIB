@@ -1,4 +1,11 @@
 # EC-FIB
+[![HitCount](https://hits.dwyl.com/miquelt9/EC-FIB.svg?style=flat-square&show=unique)](http://hits.dwyl.com/miquelt9/EC-FIB)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&show=unique)](/CONTRIBUTING.md)
+[![GitHub stars](https://img.shields.io/github/stars/miquelt9/EC-FIB.svg)](https://GitHub.com/miquelt9/EC-FIB/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/miquelt9/EC-FIB.svg)](https://GitHub.com/miquelt9/EC-FIB/network/)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/miquelt9/EC-FIB.svg)](https://github.com/miquelt9/EC-FIB)
+[![GitHub contributors](https://img.shields.io/github/contributors/miquelt9/EC-FIB.svg)](https://GitHub.com/miquelt9/EC-FIB/graphs/contributors/)
+
 - En aquest repositori hi trobareu les pràctiques realitzades en l'assignatura d'[EC](https://www.fib.upc.edu/ca/estudis/graus/grau-en-enginyeria-informatica/pla-destudis/assignatures/EC) de la [FIB](https://www.fib.upc.edu/)
 - La documentació que hi trobareu és de la [pàgina web](https://docencia.ac.upc.edu/FIB/grau/EC/) de l'assignatura
 - Qualsevol contribució és benvinguda (feu pull request o obriu una issue)
